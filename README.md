@@ -14,6 +14,7 @@
   <img align="center" alt="Dudu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dudu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Dudu-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif">
   
 </div>+
   
@@ -27,5 +28,6 @@
  <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-    ![Snake animation](https://github.com/dudualtmann/dudualtmann/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
+ ![Snake animation](https://github.com/dudualtmann/dudualtmann/blob/output/github-contribution-grid-snake.svg)
