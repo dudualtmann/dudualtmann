@@ -1,5 +1,7 @@
 ## Hi There, I'm Eduardo Altmann 👋
 
+# I am a Computer Science student at the Technical University of Darmstadt in Germany and here you can see some of my personal projects.
+
 <div>
   <a href="https://github.com/dudualtmann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudualtmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
